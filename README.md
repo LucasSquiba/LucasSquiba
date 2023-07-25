@@ -4,8 +4,6 @@
 ![text](https://github.com/LucasSquiba/LucasSquiba/assets/104004218/e2664bbc-b7be-491c-928e-ff9845898bad)
 
 
-- 👋 Olá meu nome é LucasSquiba
-- 👀 Meu Email de contato é lucassquiba6@gmail.com.br
 - 🌱 Eu estou interessado em aprender a programar novas linguagens
 - 💞️ eu estou aprendendo a programar recentemente a linguagem 
  ![p5js Editor](https://img.shields.io/badge/p5.js-ED225D?style=for-the-badge&logo=p5.js&logoColor=FFFFFF)
