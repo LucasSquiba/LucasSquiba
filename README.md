@@ -1,9 +1,8 @@
 # Sobre Mim
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-![text](https://github.com/LucasSquiba/LucasSquiba/assets/104004218/e2664bbc-b7be-491c-928e-ff9845898bad)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=990000&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Lucas+Sqyuba;I'm+16+years+old;I+from+Brasil,+PR;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-![text (2)](https://github.com/LucasSquiba/LucasSquiba/assets/104004218/b9a5f395-f12e-469f-ac11-be94386c095d)
 
 
 ![demon-slayer-gif-1](https://github.com/LucasSquiba/LucasSquiba/assets/104004218/970b8344-b24b-4d00-85be-f9e6c9c33215)
