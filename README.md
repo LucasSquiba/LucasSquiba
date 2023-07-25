@@ -3,11 +3,9 @@
 
 ![text](https://github.com/LucasSquiba/LucasSquiba/assets/104004218/e2664bbc-b7be-491c-928e-ff9845898bad)
 
+![text (2)](https://github.com/LucasSquiba/LucasSquiba/assets/104004218/b9a5f395-f12e-469f-ac11-be94386c095d)
 
-- 🌱 Eu estou interessado em aprender a programar novas linguagens
-- 💞️ eu estou aprendendo a programar recentemente a linguagem 
- ![p5js Editor](https://img.shields.io/badge/p5.js-ED225D?style=for-the-badge&logo=p5.js&logoColor=FFFFFF)
- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
 
 ![demon-slayer-gif-1](https://github.com/LucasSquiba/LucasSquiba/assets/104004218/970b8344-b24b-4d00-85be-f9e6c9c33215)
 
