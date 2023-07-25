@@ -4,6 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=990000&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Lucas+Squiba;I'm+16+years+old;I+from+Brasil,+PR;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
+![demonslayer](https://github.com/LucasSquiba/LucasSquiba/assets/104004218/d8bdbe6e-f583-4265-999d-0a5a1685dccb)
 
 
 ![demon-slayer-gif-1](https://github.com/LucasSquiba/LucasSquiba/assets/104004218/970b8344-b24b-4d00-85be-f9e6c9c33215)
