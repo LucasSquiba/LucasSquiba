@@ -1,7 +1,7 @@
 # Sobre Mim
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-![image](https://github.com/LucasSquiba/LucasSquiba/assets/104004218/05481f9d-a15b-4867-a428-256645a31201)
+![text](https://github.com/LucasSquiba/LucasSquiba/assets/104004218/e2664bbc-b7be-491c-928e-ff9845898bad)
 
 
 - 👋 Olá meu nome é LucasSquiba
