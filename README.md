@@ -1,6 +1,9 @@
 # Sobre Mim
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
+![image](https://github.com/LucasSquiba/LucasSquiba/assets/104004218/05481f9d-a15b-4867-a428-256645a31201)
+
+
 - 👋 Olá meu nome é LucasSquiba
 - 👀 Meu Email de contato é lucassquiba6@gmail.com.br
 - 🌱 Eu estou interessado em aprender a programar novas linguagens
