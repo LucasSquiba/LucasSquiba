@@ -6,7 +6,6 @@
 ![text (2)](https://github.com/LucasSquiba/LucasSquiba/assets/104004218/b9a5f395-f12e-469f-ac11-be94386c095d)
 
 
-
 ![demon-slayer-gif-1](https://github.com/LucasSquiba/LucasSquiba/assets/104004218/970b8344-b24b-4d00-85be-f9e6c9c33215)
 
 <!---
