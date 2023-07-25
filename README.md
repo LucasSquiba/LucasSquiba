@@ -7,7 +7,6 @@
 ![demonslayer](https://github.com/LucasSquiba/LucasSquiba/assets/104004218/d8bdbe6e-f583-4265-999d-0a5a1685dccb)
 
 
-![demon-slayer-gif-1](https://github.com/LucasSquiba/LucasSquiba/assets/104004218/970b8344-b24b-4d00-85be-f9e6c9c33215)
 
 <!---
 LucasSquiba/LucasSquiba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
