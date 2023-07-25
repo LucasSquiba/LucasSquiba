@@ -1,7 +1,7 @@
 # Sobre Mim
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-- 👋 Olá meu nome é @LucasSquiba
+- 👋 Olá meu nome é LucasSquiba
 - 👀 Meu Email de contato é lucassquiba6@gmail.com.br
 - 🌱 Eu estou interessado em aprender a programar novas linguagens
 - 💞️ eu estou aprendendo a programar recentemente a linguagem 
